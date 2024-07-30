@@ -531,6 +531,13 @@ Save a copy in GitHub
 Выбираем репозиторий Diplom_2024
 
 ОСТАЛОСЬ  СДЕЛАТЬ и ПОДГРУЗИТЬ ПРЕЗЕНТАЦИЮ
+## Презентация готова и доступна по ссылке Google-Презентация (в Формате итогового проекта)
+https://docs.google.com/presentation/d/1aryQMXRRYnZsWyiL_JaPTiW8ZSzhYKfyoMZwKkcaY38/edit?usp=sharing 
+## Текст Дипломной работы доступен по ссылке Google-Документ (в Формате сопроводительной записки)
+https://docs.google.com/document/d/1M3_rR8r8lTinS28DoBVuOxbBM017qXthzQCjYyhPa5Q/edit?usp=sharing 
+
+
+
 
 
 СПАСИБО   GeekBrains за  великолепное обучение на протяжение 2-х лет  и настрой на дальнейшее постоянное  изучение и освоение нового в профессии инжененра  искусственного интеллекта!
